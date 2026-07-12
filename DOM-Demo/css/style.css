@@ -1,0 +1,24 @@
+body{
+    background-color: blue;
+    color: white;
+}
+
+h1{
+    background-color: yellow;
+    color: black;
+}
+
+p{
+    background-color: bisque;
+    color: black;
+}
+
+.box{
+    height: 100px;
+    width: 100px;
+    border: 1px solid white;
+    margin-top: 10px;
+    text-align: center;
+    background-color: aquamarine;
+    color: black;
+}
