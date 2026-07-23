@@ -1,0 +1,48 @@
+*Variable and data types
+1)var - can be redeclared and update it
+2)let - cannot be redeclared but update the value
+3)char - cannot be redeclared and update
+
+*operator
+
+operator means an +,-* etc.
+operand means an varible which store value
+
+1)Arithmatic operator 
+2)Assignment operator
+3)logical operator
+4)conditional operator
+5)Ternary operator
+
+*conditional statement
+1)if
+2)if else
+3)else if 
+4)nested if
+5)switch
+
+*loop statement
+1)for loop
+2)while loop
+3)do-while loop
+4)for of - string,object
+5)for in - array
+
+*array
+
+1)Array Method - length,concat,splice,slice,push,pop
+
+*function
+1)simple function
+2)arrow function
+3)map function
+4)filter function
+5)reduce function
+
+*ES6 Features like - arrow function,let,template literals(`${}`)
+
+Def - javascript is programming language used to give instruction to computer 
+
+--in can be run between client and browser
+
+
