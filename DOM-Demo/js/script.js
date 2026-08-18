@@ -51,8 +51,30 @@
 // console.log(getdemo);
 
 
+// console.dir(window.document);
+// console.log(document.body.style.backgroundColor = "red");
+// console.log(document.body.childNodes[1].style.innerText = "Hello World");
+
+// let heading = document.getElementById("Paragraph");
+// let heading = document.getElementById("Heading");
+// console.log(heading);
+
+// let classheading = document.getElementsByClassName("H1");
+// console.log(classheading);
 
 
+// let button = document.getElementById("Button");
+// console.dir(button);
+// console.log(button);
+
+let h2 = document.querySelector("h2");
+h2.innerText = h2.innerText + " From Aaryan Bharvadiya";
+
+console.log(h2.innerText);
 
 
+let divs = document.querySelectorAll(".Boxes");
 
+console.log(divs[0].innerText = "Hello");
+console.log(divs[1].innerText = "World");
+console.log(divs[2].innerText = "!");

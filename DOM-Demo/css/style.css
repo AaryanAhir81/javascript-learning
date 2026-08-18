@@ -1,13 +1,14 @@
 body{
-    background-color: antiquewhite;
+    background: blanchedalmond;
 }
 
-h1{
-    color: blue;
-    background-color: yellow;
+h2{
+    color: red;
 }
 
-button{
-    background-color: brown;
-    color: white;
+.Boxes{
+    border: 2px solid black;
+    height: 100px;
+    width: 100px;
+    margin-top: 10px;
 }
