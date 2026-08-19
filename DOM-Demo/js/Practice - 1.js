@@ -49,3 +49,34 @@
 
 // console.log(Ptwo);
 
+// let demo = document.querySelector("#Box-1");
+
+// console.log(demo.innerHTML = "<div> Hello </div>");
+
+
+// --------------------------DOM Part-2-----------------------------------
+
+// 1. create a new button element. Give it a text "click me", background color of red & text color of white 
+// insert the button as the first element inside the body tag
+
+// let newBtn = document.createElement("button");
+
+// newBtn.innerText = "Click Me";
+// newBtn.style.cssText = "background-color: red; color: white;";
+
+// console.log(newBtn.style);
+
+// let b = document.querySelector("body");
+
+// b.prepend(newBtn);
+
+// 2. Create an image and use JavaScript to change its src.
+// let img = document.querySelector("#img-1");
+// img.setAttribute("src","/img/Demo-2.jpg");
+// console.log(img);
+
+// 3. Create a paragraph and check/change its innerHTML.
+
+// let innerp = document.querySelector("#inner-p");
+// innerp.innerHTML = "<i>Hello innerHTML</i>";
+// console.log(innerp);
