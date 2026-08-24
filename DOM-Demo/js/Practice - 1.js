@@ -80,3 +80,4 @@
 // let innerp = document.querySelector("#inner-p");
 // innerp.innerHTML = "<i>Hello innerHTML</i>";
 // console.log(innerp);
+//
