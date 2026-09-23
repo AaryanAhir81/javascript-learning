@@ -81,3 +81,49 @@
 // innerp.innerHTML = "<i>Hello innerHTML</i>";
 // console.log(innerp);
 //
+
+// let user1 = prompt("enter a number:");
+// let user2 = prompt("enter a number:");
+
+// console.log("Addition of two digits:",(Number(user1) + Number(user2)));
+
+// for(user1 of val){
+//     console.log(user1);
+// }
+
+// let i = 0;
+// let j = 1;
+
+// for(let i = 0; i<=10; i++){
+//     console.log(i);
+//     let sum = i + j;
+//     i = j;
+//     j = sum;
+// }
+
+// let row = parseInt(prompt("Enter the number of rows: "));
+// let x = 1;
+
+// for (let i = 1; i <= row; i++) {
+//     let line = "";
+//     for (let j = 0; j < i; j++) {
+//         line += x + "";
+//         x += j;
+//     }
+//     console.log(line);
+// }
+
+
+let row = parseInt(prompt("Enter the number of rows: "));
+let x = 1;
+
+for (let i = 1; i <= row; i++) {
+    let line = "";
+    for (let j = 0; j % 2; j++) {
+        line += x + "";
+        x += j;
+    }
+    console.log(line);
+}
+
+

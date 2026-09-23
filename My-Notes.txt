@@ -45,4 +45,10 @@ Def - javascript is programming language used to give instruction to computer
 
 --in can be run between client and browser
 
+Dynamically typed - means we dont have specify which type of data we want to store 
+
+Case Sensitive means different meaning 
+not case Sensitive means same meaning
+
+Reserved keyword do not consist
 
